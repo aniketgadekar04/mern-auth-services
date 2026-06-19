@@ -1,10 +1,10 @@
 function welcome(name: string) {
-  const user = {
-    name:"rakesh"
-  }
+    const user = {
+        name: 'aniket',
+    }
 
-  const name = user.name
-  return name
+    const name = user.name
+    return name
 }
 
-welcome("Aniket");
+welcome('Aniket')
